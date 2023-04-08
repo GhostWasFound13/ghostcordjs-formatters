@@ -1,5 +1,5 @@
 {
-	"name": "@discordjs/formatters",
+	"name": "@ghostcordjs/formatters",
 	"version": "0.3.0",
 	"description": "A set of functions to format strings for Discord.",
 	"scripts": {
